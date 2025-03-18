@@ -50,7 +50,7 @@ python crunchbase_lead_generator.py
 5. **Identify Potential Leads:** Lists companies likely to raise funds.
 
 
-```
+
 
 ## Future Enhancements
 - Implement Selenium automation for dynamic content.
